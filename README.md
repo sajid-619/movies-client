@@ -1,11 +1,11 @@
-# movies-frontend
+# movies-client
 
 A client-side application for movies list built with React and TypeScript
 
 ## How to run locally
 - Clone this repo
-- `npm i` to install all required dependencies
-- `npm start` to start local server
+- `yarn` to install all required dependencies
+- `yarn start` to start local server
 - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
